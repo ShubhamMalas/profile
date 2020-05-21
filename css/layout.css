@@ -331,6 +331,12 @@ ul#nav li.current a { color: #F06000; }
         -webkit-animation: photoshop 2s ease;
 }
 
+.django {
+        width: 50%;
+        -moz-animation: photoshop 2s ease;
+        -webkit-animation: photoshop 2s ease;
+}
+
 
 .sql {
         width: 70%;
